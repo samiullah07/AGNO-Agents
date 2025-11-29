@@ -1,6 +1,4 @@
 .venv
-.vscode
-.env
 __pycache__/
 *.pyc
 .ipynb_checkpoints
@@ -8,3 +6,5 @@ __pycache__/
 pyproject.toml
 .python-version
 uv.lock
+config.bat
+node_modules
